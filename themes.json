@@ -184,6 +184,11 @@
         "num_settings": 21
     },
     {
+        "file": "themes/BeardedArc.conf",
+        "name": "Bearded Arc",
+        "num_settings": 21
+    },
+    {
         "file": "themes/Belafonte_Day.conf",
         "name": "Belafonte Day",
         "num_settings": 21
@@ -900,6 +905,12 @@
         "is_dark": true,
         "name": "Hachiko",
         "num_settings": 33
+    },
+    {
+        "file": "themes/hackthebox.conf",
+        "is_dark": true,
+        "name": "Hackthebox",
+        "num_settings": 21
     },
     {
         "file": "themes/Hardcore.conf",
